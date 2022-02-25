@@ -1,3 +1,9 @@
+# the following function converts a roman numeral to an integer
+# parameters s : a string containing the romain numeral
+# return - an integer signifying the value of the numeral
+# author - Ashwin Rachha
+# text editor - atom
+
 class Solution:
     def romanToInt(self, s: str) -> int:
 
